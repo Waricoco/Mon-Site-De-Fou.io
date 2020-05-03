@@ -1,0 +1,84 @@
+
+header
+{
+  font-size: 45px;
+  margin-left: 500px;
+  color: red;
+  position:relative;
+}
+p
+{
+  margin-left: 350px;
+}
+nav
+{
+  position: fixed;
+  top: 0px
+  left: 0px;
+
+  margin-top: 100px;
+  width: 320px;
+  color: blue;
+  font-size: 45px;
+  border: 10px black outset;
+  border-right: 2px solid black;
+  text-align: justify;
+
+}
+body
+{
+  background-image: url("Images/imagesdame.jpg");
+  background-repeat: no-repeat;
+  background-size: 1920px;
+  position: relative;
+  background-color: #c2c2c2;
+}
+.gif
+{
+  position: relative;
+  float: left;
+
+
+
+}
+.blocPrincipal
+{
+  text-align: center;
+  font-size: 42px;
+  color: black;
+  opacity: 85%;
+
+  margin-left: 150px;
+
+  width: 850px;
+  height: 750px;
+
+
+}
+.titreblock
+{
+  margin-top: 100px;
+  margin-left: 400px;
+  font-size: 45px;
+  opacity: 65%;
+}
+footer
+{
+  text-align: center;
+}
+a:hover
+{
+  color: red;
+  text-decoration:inherit;
+
+}
+a:active
+{
+  color: black;
+}
+a
+{
+  text-decoration: none;
+
+
+}

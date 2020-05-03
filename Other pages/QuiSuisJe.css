@@ -1,0 +1,62 @@
+body
+{
+  background-color: rgb(189, 185, 185);
+  background-position: center;
+
+
+}
+img
+{
+
+  float: left;
+  width: 500px;
+  height: 500px;
+  margin-left: 1300px;
+  margin-top: 0px;
+
+}
+
+nav
+{
+
+  position: fixed;
+  top: 0px
+  /*left: 0px;*/
+
+/*  margin-top: 100px;*/
+  width:650;
+  height: 400px;
+  color: blue;
+  font-size: 45px;
+  border: 10px black outset;
+  border-right: 2px solid black;
+  text-align: justify;
+
+}
+
+li:hover
+{
+  background-color: green;
+  color: green;
+}
+.texteprincipale
+{
+
+  width: 800px;
+  height: 300px;
+  position: relative;
+  left: 450px;
+  margin-top: 100px;
+  font-size: 45px;
+  opacity: 75%;
+  color: black;
+}
+h1
+{
+
+  font-size: 76px;
+  position: relative;
+  left: 600px;
+  color: red;
+  opacity: 70%;
+}
