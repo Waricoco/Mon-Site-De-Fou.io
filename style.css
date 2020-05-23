@@ -34,13 +34,14 @@ body
   background-size: 1920px;
   position: relative;
   background-color: #c2c2c2;
+  flex: 34;
 }
 .gif
 {
   position: relative;
   float: left;
 
-
+flex: 2;
 
 }
 .blocPrincipal
@@ -54,7 +55,7 @@ body
 
   width: 850px;
   height: 750px;
-
+ flex: 6;
 
 }
 .titreblock
@@ -63,6 +64,7 @@ body
   margin-left: 400px;
   font-size: 45px;
   opacity: 65%;
+  flex: 23;
 }
 footer
 {
