@@ -23,6 +23,7 @@ nav
   border: 10px black outset;
   border-right: 2px solid black;
   text-align: justify;
+  flex: 1;
 
 }
 body
